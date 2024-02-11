@@ -8,6 +8,9 @@ Vehicle Routing Problems with Time Window (VRPTW), Hybrid Genetic Search (HGS), 
 # Important Note
 Using the Python Jupyter Notebook is highly advised. While compiling, each model executes independently. However, if you run the code straight from main.py , the application may crash and display errors due to the ACO procedure’s use of multiple threads! However, it functions perfectly now that I’m using the Python Jupyter Notebook code.
 
+# More Details
+To have a thorough understanding of my Vehicle Routing Problem with Time Windows project, I recommend reading my master's thesis. Thank you.
+
 # Development
 
 ## Create venv
