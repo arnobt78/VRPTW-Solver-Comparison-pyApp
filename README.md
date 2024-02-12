@@ -31,7 +31,7 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-## Clone Git Repository URL 
+## Clone git repository URL 
 
 ```sh
 git clone {paste repository URL}
