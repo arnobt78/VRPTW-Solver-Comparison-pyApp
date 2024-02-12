@@ -29,3 +29,10 @@ python -m venv .venv
 
 ```sh
 pip install -r requirements.txt
+```
+
+## Clone Git Repository URL 
+
+```sh
+git clone {paste repository URL}
+```
