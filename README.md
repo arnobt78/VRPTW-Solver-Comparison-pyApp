@@ -1,6 +1,6 @@
 
 # vrptw-solver-comparison
-Solving Vehicle Rounting Problem with Time Windows using multiple Classic Heuristic, Metaheuristic algorithms (Hybrid Genetic Search (HGS), Guided Local Search (GLS), Ant Colony Optimization (ACO), Simulated Annealing (SA)), then compairing result's with each one's results and present it in the graph. This was my master's thesis project.
+Solving Vehicle Routing Problems with Time Windows using multiple Classic Heuristic and metaheuristic algorithms (Hybrid Genetic Search (HGS), Guided Local Search (GLS), Ant Colony Optimization (ACO), Simulated Annealing (SA)), then comparing results with each one's results and present it in the graph. This was my master's thesis project.
 
 # keywords
 Vehicle Routing Problems with Time Window (VRPTW), Hybrid Genetic Search (HGS), Guided Local Search (GLS), Ant Colony Optimization (ACO), Simulated Annealing (SA), MACS-VRPTW, Genetic Algorithm (GA), Exact, Heuristics, Metaheuristics, Machine Learning Algorithms, GRASP, Local Search (LS), Neighborhood Search, OR-Tools, VRP, VRPTW, Vehicle Routing Problems (VRP), pyVRP.
