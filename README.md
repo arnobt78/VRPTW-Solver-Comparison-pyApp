@@ -1,5 +1,5 @@
 
-## The Comparison results of different NP metahuristic algo for VRPTW
+## The Comparison results of different NP metahuristic algorithms for VRPTW
 
 Running Algorithms on dataset: rc108.txt
 
