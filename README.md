@@ -145,7 +145,7 @@ Route #12: 95 33 32 30 28 26 27 29 31 80
 
 - - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - -
 
-Algorithms	No. of Routes	  Costs	    Gap(%)	  Runtime(seconds)
+Algorithms   No. of Routes  Costs    Gap(%)     Runtime(seconds)
 
   BKS	          11	        1114.2	  -	-
 
@@ -164,7 +164,7 @@ Algorithms	No. of Routes	  Costs	    Gap(%)	  Runtime(seconds)
 
 
 
-## vrptw-solver-comparison
+## VRPTW-Solver-Comparison-pyApp
 Solving Vehicle Routing Problems with Time Windows using multiple Classic Heuristic and metaheuristic algorithms (Hybrid Genetic Search (HGS), Guided Local Search (GLS), Ant Colony Optimization (ACO), Simulated Annealing (SA)), then comparing results with each one's results and present it in the graph. This was my master's thesis project.
 
 ## keywords
