@@ -3,6 +3,8 @@
 
 Running Algorithms on dataset: rc108.txt
 
+- - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - -
+
 Best-Known Solution (BKS) Route Cost: 1114.2
 
 BKS solution:
@@ -29,6 +31,7 @@ Route #10: 90
 
 Route #11: 92 95 67 62 50 63 85 84 56 91 80
 
+- - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - -
 
 Hybrid Genetic Search (HGS) Route Cost: 1114.2
 
@@ -56,6 +59,8 @@ Route #10: 90
 
 Route #11: 69 98 88 53 78 73 79 60 55 70 68 
 
+- - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - -
+
 Guided Local Search (GLS) Route Cost: 1266.9
 
 GLS solution:
@@ -80,6 +85,7 @@ Route #9: 83 52 57 86 87 59 97 75 58 74
 
 Route #10: 64 19 48 18 63 85 84 56 66
 
+- - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - -
 
 Ant Colony Optimization (ACO) Route Cost: 1321.8459204561746
 
@@ -107,6 +113,7 @@ Route #10: 59 58 87 97 75 77
 
 Route #11: 92 95 84 50 67
 
+- - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - -
 
 Simulated Annealing (SA) Route Cost: 1237.620141359753
 
@@ -136,6 +143,7 @@ Route #11: 81 93 71 72 41 54
 
 Route #12: 95 33 32 30 28 26 27 29 31 80
 
+- - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - -
 
 Algorithms	No. of Routes	  Costs	    Gap(%)	  Runtime(seconds)
 
@@ -148,6 +156,8 @@ Algorithms	No. of Routes	  Costs	    Gap(%)	  Runtime(seconds)
   ACO	          11	        1321.8	  18.63	    877.1980187892914
 
   SA	          12	        1237.6	  11.08	    416.80780506134033
+
+- - - - - - - - - - - - - - - - - - - - - - - -- - - - - - - - - - -
 
 ![3 HGS rc108](https://github.com/user-attachments/assets/afac9be9-37a1-4b4d-a7f8-5d346d653e2f) ![3 GLS rc108](https://github.com/user-attachments/assets/b8140b7f-30c2-4f65-9d55-24207754dd0f) ![3 ACO rc108](https://github.com/user-attachments/assets/3643d0e9-c3d4-418c-8ed7-efea8d94ede9) ![3 SA rc108](https://github.com/user-attachments/assets/3632158b-6131-4157-97bd-9cd4116bcecf)
 
